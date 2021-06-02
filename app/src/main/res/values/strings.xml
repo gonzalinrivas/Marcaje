@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Tensa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_name">Hora Marcaje</string>
+    <string name="helper_required">Requerido</string>
+    <string name="helper_activity">Tipo de Actividad</string>
+    <string name="helper_conceptos">Conceptos Complementarios</string>
+    <string name="description_img_photo">Foto</string>
+    <string name="edit_marcaje_title_add">Registrar Marcaje</string>
+    <string name="edit_marcaje_message_save_success">Marcaje agregado correctamente</string>
+    <string name="arg_id">key_id</string>
+    <string name="edit_marcaje_message_update_success">Marcaje actualizado correctamente</string>
+    <string name="edit_marcaje_message_valid">Revise los campos requeridos</string>
+    <string name="edit_marcaje_title_edit">Editar marcaje</string>
+    <string name="dialog_delete_title">¿Desea eliminar el marcaje seleccionado?</string>
+    <string name="dialog_delete_confirm">Eliminar</string>
+    <string name="dialog_delete_cancel">Cancelar</string>
+    <string name="label_1">DC (Dieta Completa)</string>
+    <string name="label_2">MD (Media Dieta)</string>
+    <string name="label_3">CAM (Conductor Camión)</string>
+    <string name="label_4">PK (Conductor Vehículo)</string>
+    <string name="label_5">SC (Salida a Carrillo)</string>
+    <string name="label_6">N (Nocturnidad)</string>
+    <string name="hint_nameActivity">Tipo de Actividad</string>
+    <string name="selected_item">Elemento Seleccionado</string>
+    <string name="hint_matricula">Matricula Vehículo</string>
+    <string name="nombreUsuario">Usuario</string>
+    <string name="Password">Contraseña</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="title_activity_latest_message2">LatestMessageActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_registro">Registro</string>
+
+
+</resources>

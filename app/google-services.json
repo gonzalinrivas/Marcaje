@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942081849760",
+    "project_id": "listadofichajes2",
+    "storage_bucket": "listadofichajes2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942081849760:android:d60715566a6e4764fcccc5",
+        "android_client_info": {
+          "package_name": "com.example.listadofichajes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942081849760-dp13q7d0abagnprnk4b4f9o5ssmg8kpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8PpPRvFd3mqIjVoZ7Xb_1E2Vu0wud-ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942081849760-dp13q7d0abagnprnk4b4f9o5ssmg8kpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
